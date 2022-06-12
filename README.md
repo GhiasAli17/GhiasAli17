@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhiasAli17
 - 👀 I’m interested in web development (MERN/ MEAN stack).
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently working on MERN/ MEAN Projects.
 - 💞️ I’m looking to collaborate on different web related projects using MERN/MEAN stack.
 - 📫 Contact: ghiasali17@gmail.com
 
