@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GhiasAli17
-- 👀 I’m interested in web development (MERN/ MEAN stack).
-- 🌱 I’m currently working on MERN/ MEAN Projects.
+- 👋 Hi, I’m @GhiasAli
+- 🌱 I’m currently working as a React JS developer.
 - 💞️ I’m looking to collaborate on different web related projects using MERN/MEAN stack.
-- 📫 Contact: ghiasali17@gmail.com
+- 📫 Contact: ghias.bcs18@iba-suk.edu.pk
 
 <!---
 GhiasAli17/GhiasAli17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
