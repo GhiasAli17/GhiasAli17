@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhiasAli
 - 🌱 I’m currently working as a React JS developer.
-- 💞️ I’m looking to collaborate on different web related projects using MERN/MEAN stack.
+- 💞️ I’m looking to collaborate on different Machine Learning, Data Science, Big data and other web related projects using MERN/MEAN stack.
 - 📫 Contact: ghias.bcs18@iba-suk.edu.pk
 - 📞 Phone: 03069550933
 
