@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhiasAli
 - 🌱 I’m currently working as a React.js | Next.js developer.
-- 💞️ I’m looking to collaborate on different web related projects using MERN stack.
+- 💞️ I’m looking to collaborate on different web related projects using next.js/react.js , tailwind css.
 - 📫 Contact: ghias.bcs18@iba-suk.edu.pk
 - 📞 Phone: 03069550933
 
