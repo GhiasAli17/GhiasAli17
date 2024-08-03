@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ghias.bcs18@iba-suk.edu.pk**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19N46s0BDl9satYusMeECZU6EuGTj-KGu/view?usp=sharing](https://drive.google.com/file/d/19N46s0BDl9satYusMeECZU6EuGTj-KGu/view?usp=sharing)
+- 📄 Portfolio [https://ghias-dev.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
