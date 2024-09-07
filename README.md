@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React.js, Next.js**
 
-- 👨‍💻 Public projects [https://github.com/GhiasAli17](https://github.com/GhiasAli17)
+- 👨‍💻 Public projects [https://github.com/GhiasAli17](https://github.com/GhiasAli17?tab=repositories)
 
 - 💬 Ask me about **react.js, next.js, frontend**
 
